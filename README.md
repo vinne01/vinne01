@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/twitter/follow/vinne0563?logo=twitter&style=for-the-badge" alt="vinne0563" /></a> </p>
 
-- 🔭 I’m currently working on [CRYPTO-APP USING REACT](https://romantic-turing-f6ce49.netlify.app/)
+- 🔭 I’m currently working on [sentiment analysis on scoial media data]()
 
 - 🌱 I’m currently learning **React,DSA**
 
