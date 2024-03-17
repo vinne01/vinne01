@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/twitter/follow/vinne0563?logo=twitter&style=for-the-badge" alt="vinne0563" /></a> </p>
 
-- 🔭 I’m currently working on [Sentiment analysis on scoial media data ]()
+- 🔭 I’m currently working on [Sentiment analysis on social media data ]()
 
 - 🌱 I’m currently learning **React,DSA**
 
