@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/twitter/follow/vinne0563?logo=twitter&style=for-the-badge" alt="vinne0563" /></a> </p>
 
-- 🔭 I’m currently working on [Sentiment analysis on social media data ](https://github.com/vinne01/Twitter-sentiment-analysis)
+- 🔭 I’m currently working on [Web Blogs App ](https://ddublogs.streamlit.app)
 
 - 🌱 I’m currently learning **React,DSA**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vinne0563@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/vinresume](https://bit.ly/vinneresumes)
+- 📄 Know about my experiences [https://bit.ly/vinresume](https://bit.ly/frontendscv)
 
 - ⚡ Fun fact **Music is also an instant mood lifter. I have a happy list, a sad list, a drinking list**
 
