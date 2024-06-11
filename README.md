@@ -11,7 +11,7 @@
 
 <img src="https://img.shields.io/twitter/follow/vinne0563?logo=twitter&style=for-the-badge" alt="vinne0563" /></a> </p>
 
-- 🔭 I’m currently working on [Web Blogs App ](https://ddublogs.streamlit.app)
+- 🔭 I’m currently working on [chat with multi pdf ](https://chatwithmultipdf.streamlit.app/)
 
 - 🌱 I’m currently learning **React,DSA**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vinne0563@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/vinresume](https://bit.ly/frontendscv)
+- 📄 Know about my experiences [https://bit.ly/vinresume](https://bit.ly/pythonresume)
 
 - ⚡ Fun fact **Music is also an instant mood lifter. I have a happy list, a sad list, a drinking list**
 
@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/vinne0563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinne0563" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/vinaymry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/vinaymry" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/vinaymaury_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/vinaymaury_a" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/vinnay.maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/vinaymaury_a" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/vinne0563?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vinne0563?hr_r=1" height="30" width="40" /></a>
 <a href="https://leetcode.com/vinne01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vinne01/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vinaymry/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vinaymry/" height="30" width="40" /></a>
