@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vinne0563@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/vinresume](https://bit.ly/pythonresume)
+- 📄 Know about my experiences [https://bit.ly/vinresume](https://bit.ly/vnycv)
 
 - ⚡ Fun fact **Music is also an instant mood lifter. I have a happy list, a sad list, a drinking list**
 
