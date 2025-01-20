@@ -11,9 +11,9 @@
 
 <img src="https://img.shields.io/twitter/follow/vinne0563?logo=twitter&style=for-the-badge" alt="vinne0563" /></a> </p>
 
-- 🔭 I’m currently working on [Social media app](#)
+- 🔭 I’m currently working on [Social media app](https://github.com/vinne01/social-media)
 
-- 🌱 I’m currently learning **React,DSA**
+- 🌱 I’m currently learning **React,DSA ,Node.js,express.js ,next.js,Django**
 
 - 👨‍💻 All of my projects are available at [https://myfirstsportfolio.netlify.app/](https://myfirstsportfolio.netlify.app/)
 
